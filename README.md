@@ -2,7 +2,7 @@
 
 API de análise de sentimentos com **FastAPI** + **RoBERTa (Twitter)**, interface web integrada, Firestore para logging, Docker e deploy em **Google Cloud Run**.
 
-- **Status**: ✅ Em produção (Cloud Run)
+- **Status**: ✅ Desativado (Cloud Run)
 - **Modelo**: `cardiffnlp/twitter-roberta-base-sentiment-latest` (English only)
 - **Licença**: MIT
 
